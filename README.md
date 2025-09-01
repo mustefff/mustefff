@@ -7,15 +7,25 @@
 
 ### Fullstack Developer
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustefff&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 </div>
 
 ## 👨‍💻 About Me
 
 Passionate about digital technologies, innovation, and creativity, I am a Full Stack Developer with a strong team spirit. My expertise covers a wide range of modern technologies, from web development to data analysis.
+
+## 📂 Featured Projects
+
+<div align="center">
+
+| Project | Description | Technologies | Link |
+|--------|-------------|--------------|------|
+| Enterprise-API-Platform | Hexagonal architecture with Keycloak, Redis and Kafka | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) | [Repo](https://github.com/mustefff/Enterprise-API-Platform) |
+| Vue-Enterprise-Portal | Modern UI with Keycloak authentication | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | [Repo](https://github.com/mustefff/Vue-Enterprise-Portal) |
+| EShop | E-commerce with REST Level 3 (HATEOAS) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) | [Repo](https://github.com/mustefff/EShop) |
+| CivActu | Interactive citizen platform | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | [Repo](https://github.com/mustefff/CivActu) |
+| AppCas | Instant messaging app | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | [Repo](https://github.com/mustefff/AppCas) |
+
+</div>
 
 ## 🎯 Technical Skills
 
@@ -122,17 +132,6 @@ Passionate about digital technologies, innovation, and creativity, I am a Full S
 
 </div>
 
-## 📂 Featured Projects
-
-<div align="center">
-
-| Projet | Description | Technologies | Lien |
-|--------|-------------|--------------|------|
-| Enterprise-API-Platform | Architecture hexagonale avec Keycloak, Redis et Kafka | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) | [Repo](https://github.com/mustefff/Enterprise-API-Platform) |
-| Vue-Enterprise-Portal | UI moderne avec authentification Keycloak | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | [Repo](https://github.com/mustefff/Vue-Enterprise-Portal) |
-| EShop | E-commerce avec REST Level 3 (HATEOAS) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) | [Repo](https://github.com/mustefff/EShop) |
-| CivActu | Plateforme citoyenne interactive | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | [Repo](https://github.com/mustefff/CivActu) |
-| AppCas | Messagerie instantanée | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | [Repo](https://github.com/mustefff/AppCas) |
 | Settal | Gestion des déchets | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | [Repo](https://github.com/mustefff/Settal) |
 
 </div>
