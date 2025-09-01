@@ -1,9 +1,11 @@
 <div align="center">
 
-# 👋 Bonjour, je suis Mustefff
+# Hi there 👋, I'm Mouhamadou Moustapha DIAW
 
 [![GitHub followers](https://img.shields.io/github/followers/mustefff?label=Follow&style=social)](https://github.com/mustefff)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhamadou-moustapha-diaw-107384271/)
+
+### Fullstack Developer
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mustefff&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -11,15 +13,15 @@
 
 </div>
 
-## 👨‍💻 À propos de moi
+## 👨‍💻 About Me
 
-Passionné par les technologies numériques, l'innovation et la créativité, je suis un développeur Full Stack avec un fort esprit d'équipe. Mon expertise couvre un large éventail de technologies modernes, du développement web à l'analyse de données.
+Passionate about digital technologies, innovation, and creativity, I am a Full Stack Developer with a strong team spirit. My expertise covers a wide range of modern technologies, from web development to data analysis.
 
-## 🎯 Compétences Techniques
+## 🎯 Technical Skills
 
 <div align="center">
 
-### 📊 Analyse de Données
+### 📊 Data Analysis
 
 <div style="display: flex; justify-content: center; gap: 10px;">
 
@@ -30,7 +32,7 @@ Passionné par les technologies numériques, l'innovation et la créativité, je
 
 </div>
 
-### 💻 Langages de Programmation
+### 💻 Programming Languages
 
 <div style="display: flex; justify-content: center; gap: 10px;">
 
@@ -42,7 +44,7 @@ Passionné par les technologies numériques, l'innovation et la créativité, je
 
 </div>
 
-### 🚀 Développement Web et Mobile
+### 🚀 Web and Mobile Development
 
 <table align="center">
 <tr>
@@ -74,7 +76,7 @@ Passionné par les technologies numériques, l'innovation et la créativité, je
 </tr>
 </table>
 
-### 🗄️ Base de Données
+### 🗄️ Databases
 
 <div style="display: flex; justify-content: center; gap: 10px;">
 
@@ -83,7 +85,7 @@ Passionné par les technologies numériques, l'innovation et la créativité, je
 
 </div>
 
-### ⚙️ Outils de Développement
+### ⚙️ Development Tools
 
 <div style="display: flex; justify-content: center; gap: 10px;">
 
@@ -93,7 +95,7 @@ Passionné par les technologies numériques, l'innovation et la créativité, je
 
 </div>
 
-### 🗣️ Compétences Transversales
+### 🗣️ Soft Skills
 
 <table align="center">
 <tr>
@@ -101,18 +103,18 @@ Passionné par les technologies numériques, l'innovation et la créativité, je
 
 **Communication**
 
-- ✅ Communication orale
-- ✅ Rédaction technique
-- ✅ Présentation
-- ✅ Travail d'équipe
+- ✅ Oral Communication
+- ✅ Technical Writing
+- ✅ Presentation
+- ✅ Teamwork
 
 </td>
 <td align="center">
 
-**Langues**
+**Languages**
 
-- 🇫🇷 Français (Courant)
-- 🇬🇧 Anglais (Intermédiaire)
+- 🇫🇷 French (Fluent)
+- 🇬🇧 English (Intermediate)
 
 </td>
 </tr>
@@ -120,7 +122,7 @@ Passionné par les technologies numériques, l'innovation et la créativité, je
 
 </div>
 
-## 📂 Projets Phares
+## 📂 Featured Projects
 
 <div align="center">
 
