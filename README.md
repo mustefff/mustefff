@@ -1,25 +1,38 @@
 <div align="center">
 
-# 👋 Bonjour, je suis Mustefff
+# Hi there 👋, I'm Mouhamadou Moustapha DIAW
+
+### Fullstack Developer
 
 [![GitHub followers](https://img.shields.io/github/followers/mustefff?label=Follow&style=social)](https://github.com/mustefff)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustefff&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhamadou-moustapha-diaw-107384271/)
 
 </div>
 
-## 👨‍💻 À propos de moi
+## 👨‍💻 About Me
 
-Passionné par les technologies numériques, l'innovation et la créativité, je suis un développeur Full Stack avec un fort esprit d'équipe. Mon expertise couvre un large éventail de technologies modernes, du développement web à l'analyse de données.
+Passionate about digital technologies, innovation, and creativity, I am a Full Stack Developer with a strong team spirit. My expertise covers a wide range of modern technologies, from web development to data analysis.
 
-## 🎯 Compétences Techniques
+## 📂 Featured Projects
 
 <div align="center">
 
-### 📊 Analyse de Données
+| Project | Description | Technologies | Link |
+|--------|-------------|--------------|------|
+| Enterprise-API-Platform | Hexagonal architecture with Keycloak, Redis and Kafka | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) | [Repo](https://github.com/mustefff/Enterprise-API-Platform) |
+| Vue-Enterprise-Portal | Modern UI with Keycloak authentication | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | [Repo](https://github.com/mustefff/Vue-Enterprise-Portal) |
+| EShop | E-commerce with REST Level 3 (HATEOAS) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) | [Repo](https://github.com/mustefff/EShop) |
+| CivActu | Interactive citizen platform | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | [Repo](https://github.com/mustefff/CivActu) |
+| AppCas | Instant messaging app | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | [Repo](https://github.com/mustefff/AppCas) |
+| Settal | Waste management system | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | [Repo](https://github.com/mustefff/Settal) |
+
+</div>
+
+## 🎯 Technical Skills
+
+<div align="center">
+
+### 📊 Data Analysis
 
 <div style="display: flex; justify-content: center; gap: 10px;">
 
@@ -42,7 +55,7 @@ Passionné par les technologies numériques, l'innovation et la créativité, je
 
 </div>
 
-### 🚀 Développement Web et Mobile
+### 🚀 Web and Mobile Development
 
 <table align="center">
 <tr>
@@ -74,7 +87,7 @@ Passionné par les technologies numériques, l'innovation et la créativité, je
 </tr>
 </table>
 
-### 🗄️ Base de Données
+### 🗄️ Databases
 
 <div style="display: flex; justify-content: center; gap: 10px;">
 
@@ -83,7 +96,7 @@ Passionné par les technologies numériques, l'innovation et la créativité, je
 
 </div>
 
-### ⚙️ Outils de Développement
+### ⚙️ Development Tools
 
 <div style="display: flex; justify-content: center; gap: 10px;">
 
@@ -93,7 +106,7 @@ Passionné par les technologies numériques, l'innovation et la créativité, je
 
 </div>
 
-### 🗣️ Compétences Transversales
+### 🗣️ Soft Skills
 
 <table align="center">
 <tr>
@@ -101,18 +114,18 @@ Passionné par les technologies numériques, l'innovation et la créativité, je
 
 **Communication**
 
-- ✅ Communication orale
-- ✅ Rédaction technique
-- ✅ Présentation
-- ✅ Travail d'équipe
+- ✅ Oral Communication
+- ✅ Technical Writing
+- ✅ Presentation
+- ✅ Teamwork
 
 </td>
 <td align="center">
 
-**Langues**
+**Languages**
 
-- 🇫🇷 Français (Courant)
-- 🇬🇧 Anglais (Intermédiaire)
+- 🇫🇷 French (Fluent)
+- 🇬🇧 English (Intermediate)
 
 </td>
 </tr>
@@ -120,29 +133,26 @@ Passionné par les technologies numériques, l'innovation et la créativité, je
 
 </div>
 
-## 📂 Projets Phares
 
-<div align="center">
-
-| Projet | Description | Technologies | Lien |
+| Project | Description | Technologies | Link |
 |--------|-------------|--------------|------|
-| Enterprise-API-Platform | Architecture hexagonale avec Keycloak, Redis et Kafka | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) | [Repo](https://github.com/mustefff/Enterprise-API-Platform) |
-| Vue-Enterprise-Portal | UI moderne avec authentification Keycloak | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | [Repo](https://github.com/mustefff/Vue-Enterprise-Portal) |
-| EShop | E-commerce avec REST Level 3 (HATEOAS) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) | [Repo](https://github.com/mustefff/EShop) |
-| CivActu | Plateforme citoyenne interactive | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | [Repo](https://github.com/mustefff/CivActu) |
-| AppCas | Messagerie instantanée | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | [Repo](https://github.com/mustefff/AppCas) |
-| Settal | Gestion des déchets | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | [Repo](https://github.com/mustefff/Settal) |
+| Enterprise-API-Platform | Hexagonal architecture with Keycloak, Redis and Kafka | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) | [Repo](https://github.com/mustefff/Enterprise-API-Platform) |
+| Vue-Enterprise-Portal | Modern UI with Keycloak authentication | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | [Repo](https://github.com/mustefff/Vue-Enterprise-Portal) |
+| EShop | E-commerce with REST Level 3 (HATEOAS) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) | [Repo](https://github.com/mustefff/EShop) |
+| CivActu | Interactive citizen platform | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | [Repo](https://github.com/mustefff/CivActu) |
+| AppCas | Instant messaging app | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | [Repo](https://github.com/mustefff/AppCas) |
+| Settal | Waste management system | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | [Repo](https://github.com/mustefff/Settal) |
 
 </div>
 
-## 🌐 Langues
+## 🌐 Languages
 
 <div align="center">
 
-| Langue | Niveau |
-|--------|--------|
-| 🇫🇷 Français | Courant |
-| 🇬🇧 Anglais | Intermédiaire |
+| Language | Level |
+|----------|--------|
+| 🇫🇷 French | Fluent |
+| 🇬🇧 English | Intermediate |
 
 </div>
 
